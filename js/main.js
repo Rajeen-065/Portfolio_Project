@@ -1,7 +1,7 @@
 
 
 $(document).ready(function () {
-    console.log('hello');
+    console.log('hello bye bye');
     let nav_offset_top = $('.header_area').height() + 50;
 
     function navbarFixed() {
